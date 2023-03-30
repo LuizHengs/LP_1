@@ -2,5 +2,5 @@
 
 ## Alunos:
 
-[x] Arthur Oliveira Ribeiro
+[x] Arthur Oliveira Ribeiro <br>
 [x] Luiz Henrique dos Santos Souza
